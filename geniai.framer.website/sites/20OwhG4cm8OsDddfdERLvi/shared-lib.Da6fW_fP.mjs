@@ -1,2 +1,0 @@
-import{t as e}from"./rolldown-runtime.BNzrsZbe.mjs";function t(e,t){return{description:`Explore a collection of Framer Templates ideal for creating dynamic, interactive web experiences. Perfect for designers who want to prototype rapidly.`,favicon:`https://framerusercontent.com/assets/qFrtGPzBMREeNkWDYwJUx7VtsII.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/2V0wmdFI6zxUV1VRpkZYSTvq2OI.webp`,title:`fremix.design`}}var n=e((()=>{}));export{t as n,n as t};
-//# sourceMappingURL=shared-lib.Da6fW_fP.mjs.map
