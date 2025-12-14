@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Geni AI App Template is a premium Framer template crafted for AI and productivity-focused apps. With its modern design, intuitive layout, and seamless customization, it empowers you to create a stunning website effortlessly.",favicon:"https://framerusercontent.com/assets/iiYjhCTgs7zig4S5Hzi4ybxXo.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/FMZ4Mxo34TLCKa8V5qCDPlSAK8k.png",title:"GeniAI- Mobile App Template"}}export{e as a};
+//# sourceMappingURL=chunk-FOLJJ7UK.mjs.map
